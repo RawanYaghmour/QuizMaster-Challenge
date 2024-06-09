@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizMaster-Challenge", "QuizMaster-Challenge\QuizMaster-Challenge.csproj", "{3AB343D3-837F-467D-B374-5B29ED15D3EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB343D3-837F-467D-B374-5B29ED15D3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB343D3-837F-467D-B374-5B29ED15D3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB343D3-837F-467D-B374-5B29ED15D3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB343D3-837F-467D-B374-5B29ED15D3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {101C74A6-6452-4114-8417-5BE87D01159E}
+	EndGlobalSection
+EndGlobal
